@@ -4,3 +4,7 @@ format: html
 editor: visual
 author: "Varun Sridhar"
 ---
+
+```{r}
+library(tidyverse)
+```
